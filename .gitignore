@@ -1,0 +1,20 @@
+# Secretos
+.env
+
+# Entorno de Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Índices generados por ingest.py (Lab 02)
+index/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Salidas de scripts/generar_evidencias.py
+evidencias/
